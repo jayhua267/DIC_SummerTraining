@@ -1,0 +1,2 @@
+1595233857 /home/jayhua267/DIC/DIC_HW1/AS_tb.v
+1595235142 /home/jayhua267/DIC/DIC_HW1/AS.v
